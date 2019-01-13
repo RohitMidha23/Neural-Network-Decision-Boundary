@@ -6,7 +6,7 @@ Here, I will implement an example neural network using Keras and show you how th
 
 ## Tutorial 
 
-I have made an elaborate blog post about this and you can find that [here](https://rohitmidha23.github.io/Neural-Network-Decision-Boundary/).
+I have made an elaborate blog post explaining the code, which you can find [here](https://rohitmidha23.github.io/Neural-Network-Decision-Boundary/).
 
 ## Required Python Libraries 
 
@@ -16,5 +16,10 @@ I have made an elaborate blog post about this and you can find that [here](https
 * Matplotlib
 * Os
 
+## Dataset 
 
+![png](dataset_outlook.png)
 
+## Result 
+
+![png](decision-boundary.png)
